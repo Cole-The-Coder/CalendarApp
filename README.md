@@ -1,6 +1,6 @@
-CALENDAR APP FUNCTIONS AND CLASSES
-CLASSES
-Event
+#CALENDAR APP FUNCTIONS AND CLASSES
+#CLASSES
+#Event
 	Struct object that holds all the necessary data for an event. 
 Year
 	This class is kind of the backbone of the whole program, and works in tandem with the other class, Month, to create a calendar app that’s magnitudes more readable than my first version. It holds a vector of 12 months, and has several member functions that are listed below
